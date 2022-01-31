@@ -47,10 +47,6 @@ Simple HTTP and REST client library for Go. <br />
 🔗 (https://github.com/go-resty/resty)[github]
 
 
-### 
-. <br />
-🔗 ()[github]
-
 ### LevelDB
 LevelDB key/value database in Go. <br />
 🔗 (https://github.com/syndtr/goleveldb)[github]
@@ -112,5 +108,11 @@ A dead simple 2D game library for Go. <br />
 - https://github.com/avelino/awesome-go
 - https://code.tutsplus.com/tutorials/12-indispensable-go-packages-and-libraries--cms-29008
 - https://medium.com/vacatronics/20-go-packages-you-can-use-in-your-next-project-7515426559c0
-- 
+
+---
+## Wishlist - Go Techs I'd like to use
+### 
+A database toolkit. <br />
+🔗 (https://github.com/ariga/atlas)[github]
+🔗 (https://atlasgo.io/)[home]
 
